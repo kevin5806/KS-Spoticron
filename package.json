@@ -1,0 +1,17 @@
+{
+  "name": "spoticron",
+  "version": "1.0.0",
+  "description": "View your friends' listening history and they can view yours",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "author": "kevin5806",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
